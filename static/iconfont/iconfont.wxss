@@ -1,0 +1,170 @@
+@font-face {
+    font-family: "iconfont"; /* Project id 2596624 */
+    src: url('//at.alicdn.com/t/font_2596624_ov567diz9op.woff2?t=1623479792476') format('woff2'),
+    url('//at.alicdn.com/t/font_2596624_ov567diz9op.woff?t=1623479792476') format('woff'),
+    url('//at.alicdn.com/t/font_2596624_ov567diz9op.ttf?t=1623479792476') format('truetype');
+}
+
+.iconfont {
+    font-family: "iconfont" !important;
+    font-size: 16px;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-xiangqing:before {
+    content: "\e616";
+}
+
+.icon-xiayishou:before {
+    content: "\e607";
+}
+
+.icon-zantingtingzhi1:before {
+    content: "\e625";
+}
+
+.icon-gengduo:before {
+    content: "\e654";
+}
+
+.icon-xihuan:before {
+    content: "\e7c6";
+}
+
+.icon-pinglun1:before {
+    content: "\e614";
+}
+
+.icon-huiyuan:before {
+    content: "\e65d";
+}
+
+.icon-10:before {
+    content: "\e60b";
+}
+
+.icon-diantai:before {
+    content: "\e621";
+}
+
+.icon-search:before {
+    content: "\e600";
+}
+
+.icon-shanchu:before {
+    content: "\e61a";
+}
+
+.icon-huiyuan1:before {
+    content: "\e673";
+}
+
+.icon-paihangbang:before {
+    content: "\e67b";
+}
+
+.icon-meirituijian:before {
+    content: "\e645";
+}
+
+.icon-pinglun:before {
+    content: "\e60f";
+}
+
+.icon-weibiaoti--:before {
+    content: "\e610";
+}
+
+.icon-meirituijian1:before {
+    content: "\e601";
+}
+
+.icon-Columns:before {
+    content: "\e689";
+}
+
+.icon-next-music:before {
+    content: "\e603";
+}
+
+.icon-column:before {
+    content: "\e604";
+}
+
+.icon-zhibo:before {
+    content: "\e611";
+}
+
+.icon-paihangbang1:before {
+    content: "\e629";
+}
+
+.icon-bofang:before {
+    content: "\e636";
+}
+
+.icon-iconsMusicyemianbofangliebiao:before {
+    content: "\e676";
+}
+
+.icon-iconsMusicyemianbofangmoshiAlrepeatOnejiaodian:before {
+    content: "\e677";
+}
+
+.icon-iconsMusicyemianbofangmoshiRepeat:before {
+    content: "\e678";
+}
+
+.icon-iconsMusicyemianbofangmoshiShuffle:before {
+    content: "\e679";
+}
+
+.icon-zhibobofangshexiangjitianxianxianxing:before {
+    content: "\e612";
+}
+
+.icon-huiyuan2:before {
+    content: "\e63f";
+}
+
+.icon-zantingtingzhi:before {
+    content: "\e605";
+}
+
+.icon-shanchu1:before {
+    content: "\e696";
+}
+
+.icon-bofang1:before {
+    content: "\e63e";
+}
+
+.icon-biaoqiankuozhan_huiyuan-368:before {
+    content: "\ebe1";
+}
+
+.icon-ziyuan20:before {
+    content: "\e61b";
+}
+
+.icon-jiangpai2:before {
+    content: "\e6bd";
+}
+
+.icon-shangyishou:before {
+    content: "\e606";
+}
+
+.icon-iconsMusicyemianbofangmoshiPlayList:before {
+    content: "\e652";
+}
+
+.icon-gedan:before {
+    content: "\e613";
+}
+
+.icon-denglu:before {
+    content: "\e602";
+}
